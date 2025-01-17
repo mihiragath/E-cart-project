@@ -99,6 +99,10 @@ export default function Cart() {
                         <img
                           src={item.image}
                           alt="Product"
+
+
+
+                          
                           className="w-16 h-16 object-cover rounded"
                         />
                         <div>
