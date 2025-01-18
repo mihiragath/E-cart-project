@@ -14,7 +14,7 @@ export default function Products() {
       image: "https://freepngimg.com/download/grocery/41619-7-groceries-free-download-image.png",
     },
     {
-      href: "/products/health",
+      href: "/menubar/health",
       name: "Health",
       image: "https://wallpapers.com/images/hd/vega-sport-premium-vanilla-protein-powder-jijgc9a9tmld1zbo.png",
     },
@@ -24,12 +24,12 @@ export default function Products() {
       image: "https://www.pngarts.com/files/7/Modern-Furniture-Download-PNG-Image.png",
     },
     {
-      href: "/products/electronics",
+      href: "/menubar/electronics",
       name: "Electronics",
       image: "https://www.pngplay.com/wp-content/uploads/6/Electronic-Gadgets-Transparent-Free-PNG.png",
     },
     {
-      href: "/products/mobiles-tablets",
+      href: "/menubar/mobiles-tablets",
       name: "Mobiles & Tablets",
       image: "https://www.pngkey.com/png/full/377-3778414_generic-smartphone-png.png",
     },

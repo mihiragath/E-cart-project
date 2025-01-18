@@ -69,19 +69,19 @@ function Navbar({ className }: { className?: string }) {
         <div className="container mx-auto flex justify-between px-6">
           {[
             {
-              href: "/products/mobiles-tablets",
+              href: "/menubar/mobiles-tablets",
               imgSrc:
                 "https://www.pngkey.com/png/full/377-3778414_generic-smartphone-png.png",
               label: "Mobiles & Tablets",
             },
             {
-              href: "/products/health",
+              href: "/menubar/health",
               imgSrc:
                 "https://wallpapers.com/images/hd/vega-sport-premium-vanilla-protein-powder-jijgc9a9tmld1zbo.png",
               label: "Health",
             },
             {
-              href: "/products/electronics",
+              href: "/menubar/electronics",
               imgSrc:
                 "https://www.pngplay.com/wp-content/uploads/6/Electronic-Gadgets-Transparent-Free-PNG.png",
               label: "Electronics",
