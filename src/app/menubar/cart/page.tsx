@@ -191,9 +191,11 @@ export default function Cart() {
         <p>Total Cost</p>
         <p>£{(totalCost - discount + shippingCost).toFixed(2)}</p>
       </div>
+      <Link href={'/payment'}>
       <button className="w-full bg-purple-500 text-white py-3 rounded-lg font-bold hover:bg-purple-600 transition shadow-lg">
-        Checkout
+        continue..
       </button>
+      </Link>
     </div>
 
     {/* Go to Home Button */}

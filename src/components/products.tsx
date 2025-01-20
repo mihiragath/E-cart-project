@@ -4,12 +4,12 @@ export default function Products() {
 
   const categories = [
     {
-      href: "/products/fashion",
+      href: "/menubar/fashion",
       name: "Fashion",
       image: "https://tse2.mm.bing.net/th?id=OIP.o9MFd38T64x5vuyYO61vRgHaIn&rs=1&pid=ImgDetMain",
     },
     {
-      href: "/products/glocery",
+      href: "/menubar/glocery",
       name: "glocery",
       image: "https://freepngimg.com/download/grocery/41619-7-groceries-free-download-image.png",
     },
@@ -19,8 +19,8 @@ export default function Products() {
       image: "https://wallpapers.com/images/hd/vega-sport-premium-vanilla-protein-powder-jijgc9a9tmld1zbo.png",
     },
     {
-      href: "/products/furniture",
-      name: "Furniture",
+      href: "/menubar/furnitures",
+      name: "Furnitures",
       image: "https://www.pngarts.com/files/7/Modern-Furniture-Download-PNG-Image.png",
     },
     {
@@ -34,12 +34,12 @@ export default function Products() {
       image: "https://www.pngkey.com/png/full/377-3778414_generic-smartphone-png.png",
     },
     {
-      href: "/products/gadgets",
+      href: "/menubar/gadgets",
       name: "Gadgets",
       image: "https://brain-images-ssl.cdn.dixons.com/3/7/10203573/u_10203573.jpg",
     },
     {
-      href: "/products/sports",
+      href: "/menubar/sports",
       name: "Sports",
       image: "https://tse2.mm.bing.net/th?id=OIP.5kVVU-cdnyvBXsVpSJW-gQHaDt&rs=1&pid=ImgDetMain",
     },
