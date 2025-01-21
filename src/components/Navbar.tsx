@@ -107,7 +107,7 @@ function Navbar({ className }: { className?: string }) {
             <img
               src="https://marketplace.canva.com/EAFXS8-cvyQ/1/0/1600w/canva-brown-and-light-brown%2C-circle-framed-instagram-profile-picture-2PE9qJLmPac.jpg"
               alt="Profile Avatar"
-              className="w-12 h-12 rounded-full"
+              className="w-12 h-12 rounded-full h-1"
             />
           </Link>
         </div>
